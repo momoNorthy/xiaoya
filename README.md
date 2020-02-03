@@ -1,2 +1,2 @@
 # xiaoya
-my blog.my wechat xiaoya
+[to see my blog](/issues/)
